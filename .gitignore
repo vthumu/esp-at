@@ -1,5 +1,6 @@
 # VS Code Settings
 .vscode/
+.vs/
 
 include/config
 include/sdkconfig.h
